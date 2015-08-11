@@ -60,7 +60,7 @@
     CGFloat viewHeight = self.bounds.size.height;
 
 
-    CGFloat halfHeight = ceilf(viewHeight / 2.0);//CGFloat(ceilf(CFloat(viewHeight / 2.0)));
+//    CGFloat halfHeight = ceilf(viewHeight / 2.0);//CGFloat(ceilf(CFloat(viewHeight / 2.0)));
     CGFloat quarterHeight = ceilf(viewHeight / 4.0);// CGFloat(ceilf(CFloat(viewHeight / 4.0)));
     CGFloat threeQuarterHeight = ceilf(viewHeight / 4.0 * 3.0);//CGFloat(ceilf(CFloat(viewHeight / 4.0 * 3.0)));
 
